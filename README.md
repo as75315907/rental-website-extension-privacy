@@ -1,1 +1,1 @@
-# 591-extension-privacy
+# rental-website-extension-privacy
